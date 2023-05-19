@@ -4,4 +4,4 @@ input('Name a bird.\n\n')
 
 print('\nThat is a quality bird!')
 
-print('That is a great bird!')
+print('\nThat is a great bird!')
